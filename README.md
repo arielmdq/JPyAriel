@@ -1,2 +1,0 @@
-# JPyAriel
-Aprendo con Juan
